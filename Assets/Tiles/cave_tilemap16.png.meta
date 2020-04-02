@@ -713,6 +713,9 @@ TextureImporter:
   - first:
       213: 9146177220855210404
     second: cave_tilemap16_236
+  - first:
+      213: -6477370501844087252
+    second: cave_tilemap16_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
