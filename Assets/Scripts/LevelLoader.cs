@@ -8,6 +8,7 @@ public class LevelLoader : MonoBehaviour
     // Start is called before the first frame update
     public Animator transition;
     public float transitionTime = 1f;
+    public Transform player;
     // Update is called once per frame
     void Update()
     {
@@ -20,6 +21,12 @@ public class LevelLoader : MonoBehaviour
         StartCoroutine(LoadLevel(SceneManager.GetActiveScene().buildIndex + 1));
         
     }
+
+    public void LoadPitfall(int levelIndex){
+         StartCoroutine(LoadLevel(levelIndex));
+       
+    }
+
     IEnumerator LoadLevel(int levelIndex){
 
         //play anim
@@ -27,6 +34,11 @@ public class LevelLoader : MonoBehaviour
         yield return new WaitForSeconds(transitionTime);
 
         SceneManager.LoadScene(levelIndex);
+
+        if (levelIndex == 0){
+            player.position = new Vector2(0f, 0f);
+            Camera.main.transform.position = new Vector3(0f, 0f, -10f); 
+        }
 
     }
 
