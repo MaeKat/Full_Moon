@@ -39,6 +39,10 @@ public class LevelLoader : MonoBehaviour
             player.position = new Vector2(0f, 0f);
             Camera.main.transform.position = new Vector3(0f, 0f, -10f); 
         }
+        if (levelIndex == 1){
+            player.position = new Vector2(-31.37f, -48.16f);
+            Camera.main.transform.position = new Vector3(0f, 0f, -10f); 
+        }
 
     }
 
