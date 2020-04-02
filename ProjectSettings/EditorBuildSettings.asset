@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Mountain_Pass_Pitfall_1.unity
+    guid: 673c66ce27cc16f4086f11617cfb86eb
+  - enabled: 1
     path: Assets/Scenes/Mountain_Pass_Pitfall_2.unity
     guid: e505e82ac00e94249b2d859a0d0be81f
   - enabled: 1
