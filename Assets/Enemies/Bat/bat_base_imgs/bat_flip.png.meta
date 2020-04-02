@@ -1,52 +1,52 @@
 fileFormatVersion: 2
-guid: 4be13c3c171cb4c31841d62b9ed809e3
+guid: 080249a3bfe634fd2a86a7ab1a087d19
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -697763020151794088
-    second: bat_idle1
+      213: 1187743792507336613
+    second: bat_flip_up_diag1
   - first:
-      213: -8072220183094876539
-    second: bat_idle2
+      213: 6962855390008730893
+    second: bat_flip_up_diag2
   - first:
-      213: 6263388890442168103
-    second: bat_idle3
+      213: -2118957810015721754
+    second: bat_flip_up_diag3
   - first:
-      213: 8615373810413218145
-    second: bat_up1
+      213: 3331401340242872253
+    second: bat_flip_down_diag1
   - first:
-      213: 7801246764459682756
-    second: bat_up2
+      213: 7717947961011184966
+    second: bat_flip_down_diag2
   - first:
-      213: 6117000835302039273
-    second: bat_up3
+      213: 931071016954543670
+    second: bat_flip_down_diag3
   - first:
-      213: 9141984380771908558
-    second: bat_side1
+      213: 2198275001809702035
+    second: bat_flip_side1
   - first:
-      213: -3838211256145383450
-    second: bat_side2
+      213: -4748817391580003140
+    second: bat_flip_side2
   - first:
-      213: 3336313562715910600
-    second: bat_side3
+      213: 3560367951260791821
+    second: bat_flip_side3
   - first:
-      213: -6535834092682093783
-    second: bat_down_diag1
+      213: 6046822697697601451
+    second: bat_flip_9
   - first:
-      213: -3850208551374217694
-    second: bat_down_diag2
+      213: 2329965397048486515
+    second: bat_flip_10
   - first:
-      213: 7665944921092234743
-    second: bat_down_diag3
+      213: 6734649038805696257
+    second: bat_flip_11
   - first:
-      213: 4252863098526301527
-    second: bat_up_diag1
+      213: -7615403828533049350
+    second: bat_flip_12
   - first:
-      213: 7055505884542976650
-    second: bat_up_diag2
+      213: -5921082720300709068
+    second: bat_flip_13
   - first:
-      213: 1540268859063289222
-    second: bat_up_diag3
+      213: 5267259931620371463
+    second: bat_flip_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -102,7 +102,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -144,13 +144,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bat_idle1
+      name: bat_flip_up_diag1
       rect:
         serializedVersion: 2
         x: 5
         y: 6
         width: 21
-        height: 20
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 856d276ea3c0156f0800000000000000
-      internalID: -697763020151794088
+      spriteID: 5a73394bfa6bb7010800000000000000
+      internalID: 1187743792507336613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_idle2
+      name: bat_flip_up_diag2
       rect:
         serializedVersion: 2
-        x: 36
-        y: 7
-        width: 25
-        height: 19
+        x: 37
+        y: 4
+        width: 21
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58624ed0386b9ff80800000000000000
-      internalID: -8072220183094876539
+      spriteID: d0562ef161801a060800000000000000
+      internalID: 6962855390008730893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_idle3
+      name: bat_flip_up_diag3
       rect:
         serializedVersion: 2
-        x: 68
-        y: 7
-        width: 25
-        height: 19
+        x: 71
+        y: 4
+        width: 17
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 727fee0d2070ce650800000000000000
-      internalID: 6263388890442168103
+      spriteID: 6e629f73913f792e0800000000000000
+      internalID: -2118957810015721754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_up1
+      name: bat_flip_down_diag1
       rect:
         serializedVersion: 2
-        x: 103
-        y: 5
-        width: 19
-        height: 22
+        x: 101
+        y: 6
+        width: 20
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16922e895d4ff8770800000000000000
-      internalID: 8615373810413218145
+      spriteID: db7cf615ed38b3e20800000000000000
+      internalID: 3331401340242872253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_up2
+      name: bat_flip_down_diag2
       rect:
         serializedVersion: 2
-        x: 132
-        y: 5
-        width: 25
-        height: 22
+        x: 134
+        y: 6
+        width: 22
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cbe8c87998934c60800000000000000
-      internalID: 7801246764459682756
+      spriteID: 645a50377c8ab1b60800000000000000
+      internalID: 7717947961011184966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_up3
+      name: bat_flip_down_diag3
       rect:
         serializedVersion: 2
         x: 167
         y: 5
-        width: 19
-        height: 19
+        width: 20
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ee12f6b9d3f3e450800000000000000
-      internalID: 6117000835302039273
+      spriteID: 63ebc3a2824dbec00800000000000000
+      internalID: 931071016954543670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_side1
+      name: bat_flip_side1
       rect:
         serializedVersion: 2
-        x: 200
-        y: 4
-        width: 16
-        height: 25
+        x: 198
+        y: 6
+        width: 19
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,14 +284,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecb3416ab5adede70800000000000000
-      internalID: 9141984380771908558
+      spriteID: 39c0d799777d18e10800000000000000
+      internalID: 2198275001809702035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_side2
+      name: bat_flip_side2
       rect:
         serializedVersion: 2
         x: 231
@@ -305,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ef6c80c23febbac0800000000000000
-      internalID: -3838211256145383450
+      spriteID: cb44daf1ebfc81eb0800000000000000
+      internalID: -4748817391580003140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_side3
+      name: bat_flip_side3
       rect:
         serializedVersion: 2
-        x: 263
-        y: 6
-        width: 19
-        height: 21
+        x: 264
+        y: 4
+        width: 16
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c1fffc3287fc4e20800000000000000
-      internalID: 3336313562715910600
+      spriteID: d04b59cb9c7f86130800000000000000
+      internalID: 3560367951260791821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_down_diag1
+      name: bat_flip_9
       rect:
         serializedVersion: 2
-        x: 293
+        x: 294
         y: 5
-        width: 20
-        height: 23
+        width: 19
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,20 +347,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92bdbc2658d0c45a0800000000000000
-      internalID: -6535834092682093783
+      spriteID: ba7e804c431aae350800000000000000
+      internalID: 6046822697697601451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_down_diag2
+      name: bat_flip_10
       rect:
         serializedVersion: 2
-        x: 324
-        y: 6
-        width: 22
-        height: 21
+        x: 323
+        y: 5
+        width: 25
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22e1b28c8bf419ac0800000000000000
-      internalID: -3850208551374217694
+      spriteID: 37ae6061f23b55020800000000000000
+      internalID: 2329965397048486515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_down_diag3
+      name: bat_flip_11
       rect:
         serializedVersion: 2
-        x: 359
-        y: 6
-        width: 20
-        height: 21
+        x: 358
+        y: 5
+        width: 19
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,20 +389,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fd99613a48e26a60800000000000000
-      internalID: 7665944921092234743
+      spriteID: 10f70fc7e97467d50800000000000000
+      internalID: 6734649038805696257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_up_diag1
+      name: bat_flip_12
       rect:
         serializedVersion: 2
-        x: 392
-        y: 4
-        width: 17
-        height: 24
+        x: 387
+        y: 7
+        width: 25
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,20 +410,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75df60a9474350b30800000000000000
-      internalID: 4252863098526301527
+      spriteID: af7432be096a05690800000000000000
+      internalID: -7615403828533049350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_up_diag2
+      name: bat_flip_13
       rect:
         serializedVersion: 2
-        x: 422
-        y: 4
-        width: 21
-        height: 24
+        x: 419
+        y: 7
+        width: 25
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,20 +431,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a82ccd668313ae160800000000000000
-      internalID: 7055505884542976650
+      spriteID: 43bc5ca13a614dda0800000000000000
+      internalID: -5921082720300709068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat_up_diag3
+      name: bat_flip_14
       rect:
         serializedVersion: 2
         x: 454
         y: 6
         width: 21
-        height: 21
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,8 +452,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 685401bdd52206510800000000000000
-      internalID: 1540268859063289222
+      spriteID: 70c61eb2001191940800000000000000
+      internalID: 5267259931620371463
       vertices: []
       indices: 
       edges: []
