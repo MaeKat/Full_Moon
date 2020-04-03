@@ -2,8 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+public enum PlayerState
+{
+    walk,
+    attack,
+    interact,
+    stagger,
+    idle
+}
+
 public class PlayerMovement : MonoBehaviour
 {
+    public PlayerState currentState;
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
     public Animator animator;
@@ -25,4 +35,19 @@ public class PlayerMovement : MonoBehaviour
         
     }
 
+    public void Knock(float knockTime)
+	{
+        StartCoroutine(KnockCo(knockTime));
+	}
+
+    private IEnumerator KnockCo(float knockTime)
+    {
+        if (rb != null)
+        {
+            yield return new WaitForSeconds(knockTime);
+            rb.velocity = Vector2.zero;
+            currentState = PlayerState.idle;
+            rb.velocity = Vector2.zero;
+        }
+    }
 }

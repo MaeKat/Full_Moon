@@ -5,27 +5,29 @@ using UnityEngine;
 public class Knockback : MonoBehaviour
 {
     public float thrust;
+	public float knockTime;
 
     private void OnTriggerEnter2D(Collider2D collision)
 	{
-        if(collision.gameObject.CompareTag("Enemy"))
+        if(collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("Player"))
 		{
-            Rigidbody2D enemy = collision.GetComponent<Rigidbody2D>();
-            if(enemy != null)
+            Rigidbody2D hit = collision.GetComponent<Rigidbody2D>();
+            if(hit != null)
 			{
-                StartCoroutine(KnockCo(enemy));
+				Vector2 difference = hit.transform.position - transform.position;
+				difference = difference.normalized * thrust;
+				hit.AddForce(difference, ForceMode2D.Impulse);
+				if (collision.gameObject.CompareTag("Enemy"))
+				{
+					hit.GetComponent<Enemy>().currentState = EnemyState.stagger;
+					collision.GetComponent<Enemy>().Knock(hit, knockTime);
+				}
+                if(collision.gameObject.CompareTag("Player"))
+				{
+					hit.GetComponent <PlayerMovement>().currentState = PlayerState.stagger;
+					collision.GetComponent<PlayerMovement>().Knock(knockTime);
+				}
 			}
-		}
-	}
-    private IEnumerator KnockCo(Rigidbody2D enemy)
-	{
-        if(enemy != null)
-		{
-			Vector2 forceDirection = enemy.transform.position - transform.position;
-			Vector2 force = forceDirection.normalized * thrust;
-			enemy.velocity = force;
-			yield return new WaitForSeconds(.3f);
-			enemy.velocity = new Vector2();
 		}
 	}
 }
