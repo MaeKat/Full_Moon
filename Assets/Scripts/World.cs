@@ -7,7 +7,20 @@ public class World : SceneController {
     // Use this for initialization
     public override void Start () {
         base.Start();
- 
+ //Hometown 
+          if (prevScene == "Hometown" && currentScene == "Inside_Houses") {//up ladder from pit 2 to mt pass
+            player.position = new Vector2(-1.39f, -4.31f);
+            Camera.main.transform.position = new Vector3(-31.5f, -25.91f, -10f);
+        }
+        if (prevScene == "Inside_Houses" && currentScene == "Hometown") {//up ladder from pit 2 to mt pass
+            player.position = new Vector2(-28.48f, 3.98f);
+            Camera.main.transform.position = new Vector3(-31.5f, -25.91f, -10f);
+        }
+
+
+
+
+ //Mountain Pass
         if (prevScene == "Mountain_Pass" && currentScene == "Mountain_Pass_Pitfall_1") {//down ladder for pit 1
             player.position = new Vector2(.17f, 15.37f);
             Camera.main.transform.position = new Vector3(-35.5f, 13.91f, -10f);       
