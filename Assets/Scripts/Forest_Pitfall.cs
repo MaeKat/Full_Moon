@@ -21,7 +21,7 @@ public class Forest_Pitfall : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         { //Add Door collision here!
-            Debug.Log("pitfall hit");
+            Debug.Log("forest pitfall hit");
             sn.LoadPitfall(2);
 
         }
