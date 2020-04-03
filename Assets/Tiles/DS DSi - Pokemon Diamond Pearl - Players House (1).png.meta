@@ -1,0 +1,2912 @@
+fileFormatVersion: 2
+guid: 97b5453c09fd3480abc362d393ebd499
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1080417565357092316
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_0
+  - first:
+      213: -4651385561330933153
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_1
+  - first:
+      213: 7790450806787038218
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_2
+  - first:
+      213: 6039889358274290690
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_3
+  - first:
+      213: 841046763928880006
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_4
+  - first:
+      213: -3515674434377940019
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_5
+  - first:
+      213: 5197171691705635525
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_6
+  - first:
+      213: -3375947309601579862
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_7
+  - first:
+      213: -5868732074189914372
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_8
+  - first:
+      213: -3992409638335822043
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_9
+  - first:
+      213: 7576720046710650880
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_10
+  - first:
+      213: 2782338484561579818
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_11
+  - first:
+      213: 8374785251222222524
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_12
+  - first:
+      213: 2704125462017790842
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_13
+  - first:
+      213: -819911648332386370
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_14
+  - first:
+      213: -2648683100611887896
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_15
+  - first:
+      213: 1140981940153773390
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_16
+  - first:
+      213: -5044600984307120124
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_17
+  - first:
+      213: 8602218581013069740
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_18
+  - first:
+      213: 7937498882778047569
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_19
+  - first:
+      213: -3477694948881113289
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_20
+  - first:
+      213: -1008040341672246770
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_21
+  - first:
+      213: -3820473140952916783
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_22
+  - first:
+      213: -3673567994589257737
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_23
+  - first:
+      213: -4288091036024707901
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_24
+  - first:
+      213: -5612678193620496881
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_25
+  - first:
+      213: 3295211135688290468
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_26
+  - first:
+      213: 7371265137023901044
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_27
+  - first:
+      213: 8194001527141236612
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_28
+  - first:
+      213: 4578933980339968222
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_29
+  - first:
+      213: -579344894147141035
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_30
+  - first:
+      213: -2858321548188454938
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_31
+  - first:
+      213: 1886745974246020150
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_32
+  - first:
+      213: -5257112950821420389
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_33
+  - first:
+      213: -1778733671444401625
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_34
+  - first:
+      213: 3354836561375774623
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_35
+  - first:
+      213: 1400441411839701982
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_36
+  - first:
+      213: 2643175024578321562
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_37
+  - first:
+      213: 7538088757723808989
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_38
+  - first:
+      213: 375376224435792035
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_39
+  - first:
+      213: 2315845922761441107
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_40
+  - first:
+      213: -7242229100663476340
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_41
+  - first:
+      213: 1544461523270791267
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_42
+  - first:
+      213: -5270940472625774525
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_43
+  - first:
+      213: 874706682510526093
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_44
+  - first:
+      213: 7435122193937758055
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_45
+  - first:
+      213: -8586804230767862400
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_46
+  - first:
+      213: 7809616614656550098
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_47
+  - first:
+      213: 8152627420279061005
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_48
+  - first:
+      213: -4668203495911652494
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_49
+  - first:
+      213: 4553893087685450752
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_50
+  - first:
+      213: -2637783592920723197
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_51
+  - first:
+      213: 2107921098964447863
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_52
+  - first:
+      213: -8360921846652710345
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_53
+  - first:
+      213: -4429249253012070562
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_54
+  - first:
+      213: 6730734469642471780
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_55
+  - first:
+      213: 5956681410034046374
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_56
+  - first:
+      213: -1477753792686254875
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_57
+  - first:
+      213: 3308914320389599076
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_58
+  - first:
+      213: -4235376130048040889
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_59
+  - first:
+      213: -5549758145248025524
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_60
+  - first:
+      213: 659045144245976098
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_61
+  - first:
+      213: 8702376013864712247
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_62
+  - first:
+      213: 7010501074104799868
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_63
+  - first:
+      213: -8540953432464843902
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_64
+  - first:
+      213: -1869602849262372656
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_65
+  - first:
+      213: 8639217099244875151
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_66
+  - first:
+      213: 7800037859456963939
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_67
+  - first:
+      213: 2197730088898864679
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_68
+  - first:
+      213: -4862835593494480932
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_69
+  - first:
+      213: -7206519656885447777
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_70
+  - first:
+      213: 877070981318123471
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_71
+  - first:
+      213: -2188008963323397028
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_72
+  - first:
+      213: 6037906043686120475
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_73
+  - first:
+      213: -7298294105205070922
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_74
+  - first:
+      213: -1892152281230111167
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_75
+  - first:
+      213: 8995211284007136433
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_76
+  - first:
+      213: 8692890770647584531
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_77
+  - first:
+      213: -4253159498838303531
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_78
+  - first:
+      213: 8061898374918349621
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_79
+  - first:
+      213: -5462786195262040464
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_80
+  - first:
+      213: 6306323897104707683
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_81
+  - first:
+      213: 4215629481715437541
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_82
+  - first:
+      213: -1081498122917728812
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_83
+  - first:
+      213: -5357855904163582909
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_84
+  - first:
+      213: -5560615183235560328
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_85
+  - first:
+      213: 5742248073130680693
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_86
+  - first:
+      213: -528881591585514144
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_87
+  - first:
+      213: -2753993474444402616
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_88
+  - first:
+      213: -4247264896788889899
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_89
+  - first:
+      213: -2386698080150855090
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_90
+  - first:
+      213: -2635709237154513435
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_91
+  - first:
+      213: -4550164854676694067
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_92
+  - first:
+      213: -1612782553219428582
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_93
+  - first:
+      213: -5640912370738148772
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_94
+  - first:
+      213: 1863589966002460489
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_95
+  - first:
+      213: 2055448964097860337
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_96
+  - first:
+      213: -7316189789576106473
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_97
+  - first:
+      213: 447116036675833366
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_98
+  - first:
+      213: 596061984698834732
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_99
+  - first:
+      213: -1757624855735662211
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_100
+  - first:
+      213: 7776110120324761927
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_101
+  - first:
+      213: -3368158706462275122
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_102
+  - first:
+      213: -4563931612556536683
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_103
+  - first:
+      213: 2806987943205427423
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_104
+  - first:
+      213: 2546283276251538720
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_105
+  - first:
+      213: 3219676668990069478
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_106
+  - first:
+      213: 5815036401918736104
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_107
+  - first:
+      213: 4437504333671850657
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_108
+  - first:
+      213: 8317711322413821161
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_109
+  - first:
+      213: -449018144027571191
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_110
+  - first:
+      213: -3955617547200320063
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_111
+  - first:
+      213: -6795655994503608426
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_112
+  - first:
+      213: -3733356905515071348
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_113
+  - first:
+      213: -5287263599377109004
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_114
+  - first:
+      213: 5423028492770735435
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_115
+  - first:
+      213: 944347640077720149
+    second: DS DSi - Pokemon Diamond Pearl - Players House (1)_116
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4225cc7d2f59101f0800000000000000
+      internalID: -1080417565357092316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f522d7fd975f27fb0800000000000000
+      internalID: -4651385561330933153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c52b2bbbd3d1c60800000000000000
+      internalID: 7790450806787038218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204e992ee5ff1d350800000000000000
+      internalID: 6039889358274290690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830973639ffbab00800000000000000
+      internalID: 841046763928880006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc30bf09ab0d53fc0800000000000000
+      internalID: -3515674434377940019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c294d82e10102840800000000000000
+      internalID: 5197171691705635525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac13c6fec93621d0800000000000000
+      internalID: -3375947309601579862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfef7fbb5431e8ea0800000000000000
+      internalID: -5868732074189914372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c52d269c1898c0800000000000000
+      internalID: -3992409638335822043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f4c24dbae52960800000000000000
+      internalID: 7576720046710650880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f01393c1adc9620800000000000000
+      internalID: 2782338484561579818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6f74180d6393470800000000000000
+      internalID: 8374785251222222524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73d8a7d7cbf68520800000000000000
+      internalID: 2704125462017790842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf61fd23b61f94f0800000000000000
+      internalID: -819911648332386370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecb279d0ccfd3bd0800000000000000
+      internalID: -2648683100611887896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d6006870595df00800000000000000
+      internalID: 1140981940153773390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c9c8d12afdf9b0800000000000000
+      internalID: -5044600984307120124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf7c811938316770800000000000000
+      internalID: 8602218581013069740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ab01ed29a72e60800000000000000
+      internalID: 7937498882778047569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f55ce9edebcbfc0800000000000000
+      internalID: -3477694948881113289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02cc5b66a8b202f0800000000000000
+      internalID: -1008040341672246770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc94978be3fafac0800000000000000
+      internalID: -3820473140952916783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff53405f5dd40dc0800000000000000
+      internalID: -3673567994589257737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e5390ce3ad74c0800000000000000
+      internalID: -4288091036024707901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e4bae8be2cb12b0800000000000000
+      internalID: -5612678193620496881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0bc92b111fabd20800000000000000
+      internalID: 3295211135688290468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dd785669efb4660800000000000000
+      internalID: 7371265137023901044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ff24aa9f0f6b170800000000000000
+      internalID: 8194001527141236612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81124e134ab8f30800000000000000
+      internalID: 4578933980339968222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5526ce563e0c5f7f0800000000000000
+      internalID: -579344894147141035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe16a22b33558d0800000000000000
+      internalID: -2858321548188454938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634155897711f2a10800000000000000
+      internalID: 1886745974246020150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b920f26ef9bfa07b0800000000000000
+      internalID: -5257112950821420389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b783662ba057e0800000000000000
+      internalID: -1778733671444401625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97cb40f316ce8e20800000000000000
+      internalID: 3354836561375774623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3b3715b0e5f6310800000000000000
+      internalID: 1400441411839701982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cdc234ea17ea420800000000000000
+      internalID: 2643175024578321562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd44e7169cbac9860800000000000000
+      internalID: 7538088757723808989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a86f92ffaa953500800000000000000
+      internalID: 375376224435792035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7bbcc899832020800000000000000
+      internalID: 2315845922761441107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fe4f0010f6e7b90800000000000000
+      internalID: -7242229100663476340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36070df82970f6510800000000000000
+      internalID: 1544461523270791267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34049e8119bd9d6b0800000000000000
+      internalID: -5270940472625774525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8643b5e715932c00800000000000000
+      internalID: 874706682510526093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767784f0e3cde2760800000000000000
+      internalID: 7435122193937758055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d92450c0b85d880800000000000000
+      internalID: -8586804230767862400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a7941fe4516c60800000000000000
+      internalID: 7809616614656550098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab7dbb173f32170800000000000000
+      internalID: 8152627420279061005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27303f657a5373fb0800000000000000
+      internalID: -4668203495911652494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c199cb2ada23f30800000000000000
+      internalID: 4553893087685450752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3015b9d3cc5b46bd0800000000000000
+      internalID: -2637783592920723197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b35e3217d04d10800000000000000
+      internalID: 2107921098964447863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7325677e0e908fb80800000000000000
+      internalID: -8360921846652710345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1d8485452882c0800000000000000
+      internalID: -4429249253012070562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4694484d65f586d50800000000000000
+      internalID: 6730734469642471780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5904dbe226aa250800000000000000
+      internalID: 5956681410034046374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4137941c6fd7be0800000000000000
+      internalID: -1477753792686254875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f66030b00abed20800000000000000
+      internalID: 3308914320389599076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740615689dbe835c0800000000000000
+      internalID: -4235376130048040889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44292bee5c4bf2b0800000000000000
+      internalID: -5549758145248025524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c3ab12116652900800000000000000
+      internalID: 659045144245976098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383940a0ec05c870800000000000000
+      internalID: 8702376013864712247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72d28b659d4a4160800000000000000
+      internalID: 7010501074104799868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b97c6ea10787980800000000000000
+      internalID: -8540953432464843902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d878aa3d16dd06e0800000000000000
+      internalID: -1869602849262372656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8da8f1ed2aa4e770800000000000000
+      internalID: 8639217099244875151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d7875b1d4f3c60800000000000000
+      internalID: 7800037859456963939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726210d2fd7ef7e10800000000000000
+      internalID: 2197730088898864679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b2a8caccb38cb0800000000000000
+      internalID: -4862835593494480932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f931978cd8c4dfb90800000000000000
+      internalID: -7206519656885447777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf154c196bfb2c00800000000000000
+      internalID: 877070981318123471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cfcbfb071a2a1e0800000000000000
+      internalID: -2188008963323397028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c68197e83fac350800000000000000
+      internalID: 6037906043686120475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3ace8ed2047ba90800000000000000
+      internalID: -7298294105205070922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e85587689bdb5e0800000000000000
+      internalID: -1892152281230111167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca4de010965dc70800000000000000
+      internalID: 8995211284007136433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f88b7591a53a870800000000000000
+      internalID: 8692890770647584531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc1aa258fdb9f4c0800000000000000
+      internalID: -4253159498838303531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533ae44bbdd91ef60800000000000000
+      internalID: 8061898374918349621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0769f7306e84034b0800000000000000
+      internalID: -5462786195262040464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360bb7d0c20948750800000000000000
+      internalID: 6306323897104707683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef0052adace08a30800000000000000
+      internalID: 4215629481715437541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddac3eef2fbdf0f0800000000000000
+      internalID: -1081498122917728812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ca99a317215a5b0800000000000000
+      internalID: -5357855904163582909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cc996c3f9b4d2b0800000000000000
+      internalID: -5560615183235560328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5712023e23090bf40800000000000000
+      internalID: 5742248073130680693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d5d4d9ef809a8f0800000000000000
+      internalID: -528881591585514144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8406ff9b689d7c9d0800000000000000
+      internalID: -2753993474444402616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de79ef441fae05c0800000000000000
+      internalID: -4247264896788889899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42608acdbeb0eed0800000000000000
+      internalID: -2386698080150855090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed7034d9641c6bd0800000000000000
+      internalID: -2635709237154513435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb57872c219ad0c0800000000000000
+      internalID: -4550164854676694067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f886f00de3e99e0800000000000000
+      internalID: -1612782553219428582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5acb0de51477b1b0800000000000000
+      internalID: -5640912370738148772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9471f8a433dccd910800000000000000
+      internalID: 1863589966002460489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f26ffe41fb668c10800000000000000
+      internalID: 2055448964097860337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee9f2362ca77a90800000000000000
+      internalID: -7316189789576106473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e817b9aa9743600800000000000000
+      internalID: 447116036675833366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f961e8733a54800800000000000000
+      internalID: 596061984698834732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d798a798189ab97e0800000000000000
+      internalID: -1757624855735662211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749074074fa4aeb60800000000000000
+      internalID: 7776110120324761927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94d227085e141d0800000000000000
+      internalID: -3368158706462275122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594546e0168a9a0c0800000000000000
+      internalID: -4563931612556536683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8509b89ac64f620800000000000000
+      internalID: 2806987943205427423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025ad722627365320800000000000000
+      internalID: 2546283276251538720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea14c23fd69eac20800000000000000
+      internalID: 3219676668990069478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f4545cc823b050800000000000000
+      internalID: 5815036401918736104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a264c93eae259d30800000000000000
+      internalID: 4437504333671850657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec68bce0627e6370800000000000000
+      internalID: 8317711322413821161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c08838064c4c9f0800000000000000
+      internalID: -449018144027571191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cda2df6cc2da19c0800000000000000
+      internalID: -3955617547200320063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697cbdfb0eaf0b1a0800000000000000
+      internalID: -6795655994503608426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c503bca3703cc0800000000000000
+      internalID: -3733356905515071348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff264df4cddf96b0800000000000000
+      internalID: -5287263599377109004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45fb668ea7724b40800000000000000
+      internalID: 5423028492770735435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Players House (1)_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a9f4fdc2ffa1d00800000000000000
+      internalID: 944347640077720149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
