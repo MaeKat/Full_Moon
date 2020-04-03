@@ -77647,7 +77647,7 @@ PrefabInstance:
     - target: {fileID: 8775824725716975589, guid: dae91c7e0126501459b706818364d72d,
         type: 3}
       propertyPath: m_Name
-      value: Inside_House
+      value: Inside_House_Loader
       objectReference: {fileID: 0}
     - target: {fileID: 8775824725716975590, guid: dae91c7e0126501459b706818364d72d,
         type: 3}
