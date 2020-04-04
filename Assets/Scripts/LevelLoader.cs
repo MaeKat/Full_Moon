@@ -35,15 +35,15 @@ public class LevelLoader : MonoBehaviour
 
         SceneManager.LoadScene(levelIndex);
 
-        if (levelIndex == 0){
+        if (levelIndex == 3){
             player.position = new Vector2(0f, 0f);
             Camera.main.transform.position = new Vector3(0f, 0f, -10f); 
         }
-        if (levelIndex == 1){
+        if (levelIndex == 4){
             player.position = new Vector2(-31.37f, -48.16f);
             Camera.main.transform.position = new Vector3(0f, 0f, -10f); 
         }
-        if (levelIndex == 2)
+        if (levelIndex == 5)
         {
             player.position = new Vector2(0f, 0f);
             Camera.main.transform.position = new Vector3(0f, 0f, -10f);
