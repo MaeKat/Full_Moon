@@ -18,6 +18,8 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D rb;
     public Animator animator;
     Vector3 change;
+    public FloatValue currentHealth;
+    public Signals playerHealthSignal;
 
     void Start(){
         animator = GetComponent<Animator>();
@@ -73,9 +75,16 @@ public class PlayerMovement : MonoBehaviour
         
     }
 
-    public void Knock(float knockTime)
+    public void Knock(float knockTime, float damage)
 	{
-        StartCoroutine(KnockCo(knockTime));
+        currentHealth.RunTimeValue -=damage;
+        playerHealthSignal.Raise(); //add audio in raise
+        if(currentHealth.RunTimeValue > 0){
+
+          StartCoroutine(KnockCo(knockTime));
+        }else{
+            this.gameObject.SetActive(false);
+        }
 	}
 
     private IEnumerator KnockCo(float knockTime)
