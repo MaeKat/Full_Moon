@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/MainMenu.unity
+    path: 
     guid: 609362aaa453242d6b8e6e7c4c31d74f
   - enabled: 1
     path: Assets/Scenes/Hometown.unity
@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Inside_Houses.unity
     guid: 5f82f65c9c04a4c629bcff49cb04b099
+  - enabled: 1
+    path: Assets/Scenes/Forest_Cabin.unity
+    guid: 391f87399ad12004dbf1fc65e45d110f
   m_configObjects: {}

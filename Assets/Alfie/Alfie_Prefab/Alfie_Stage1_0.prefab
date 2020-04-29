@@ -117,9 +117,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0666c87bfb8f18343bbbf0db26133929, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentState: 0
   moveSpeed: 5
   rb: {fileID: 2505778309311248010}
   animator: {fileID: 2505778309311248014}
+  currentHealth: {fileID: 0}
+  playerHealthSignal: {fileID: 0}
 --- !u!50 &2505778309311248010
 Rigidbody2D:
   serializedVersion: 4

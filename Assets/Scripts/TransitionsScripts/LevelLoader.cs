@@ -49,6 +49,7 @@ public class LevelLoader : MonoBehaviour
             Camera.main.transform.position = new Vector3(0f, 0f, -10f);
         }
 
+
     }
 
 }
