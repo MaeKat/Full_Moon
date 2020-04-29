@@ -14,18 +14,18 @@ public class Interactable : MonoBehaviour
         
     }
 
-private void OnTriggerEnter2D(Collider2D other){
-    if(other.CompareTag("Player") && !other.isTrigger){
-        context.Raise();
-        playerInRange = true;
-    }
-}
+//private void OnTriggerEnter2D(Collider2D other){
+//    if(other.CompareTag("Player") && !other.isTrigger){
+//        context.Raise();
+//        playerInRange = true;
+//    }
+//}
 
-private void OnTriggerExit2D(Collider2D other){
-    if(other.CompareTag("Player") && !other.isTrigger){
-        context.Raise();
-        playerInRange = false;
-    }
-}
+//private void OnTriggerExit2D(Collider2D other){
+//    if(other.CompareTag("Player") && !other.isTrigger){
+//        context.Raise();
+//        playerInRange = false;
+//    }
+//}
 
 }
