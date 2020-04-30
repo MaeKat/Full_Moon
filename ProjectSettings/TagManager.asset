@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: [Enemy, Pitfall]
+  tags:
+  - Enemy
+  - Pitfall
   layers:
   - Default
   - TransparentFX
@@ -41,7 +43,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Sign
+  - name: defNotSign
     uniqueID: 2431721479
     locked: 0
   - name: Player
@@ -49,4 +51,7 @@ TagManager:
     locked: 0
   - name: ladder
     uniqueID: 570213703
+    locked: 0
+  - name: sign
+    uniqueID: 3169692511
     locked: 0

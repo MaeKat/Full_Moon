@@ -77559,7 +77559,7 @@ PrefabInstance:
     - target: {fileID: 6167315221104594990, guid: 22d648aac23e94940a6f94d946525261,
         type: 3}
       propertyPath: toScene
-      value: Inside_Houses
+      value: Inside_Houses_wolf
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22d648aac23e94940a6f94d946525261, type: 3}
@@ -77901,7 +77901,7 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1384232164}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dae91c7e0126501459b706818364d72d, type: 3}
 --- !u!95 &786805801 stripped

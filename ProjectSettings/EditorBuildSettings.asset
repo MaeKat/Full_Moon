@@ -18,6 +18,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Hometown.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Alfie_Room_wolf.unity
+    guid: 497e74dc740768e438cfda66920c97ff
+  - enabled: 1
+    path: Assets/Scenes/Inside_Houses_wolf.unity
+    guid: ef04186ec84c1824bb43bdf7303f7743
+  - enabled: 1
+    path: Assets/Scenes/Hometown_wolf.unity
+    guid: 7706a38031b72bf4fa47a5edd38211fc
+  - enabled: 1
     path: Assets/Scenes/Forest.unity
     guid: 8b822b53b455c1c46ae287007be4ee3c
   - enabled: 1
