@@ -7,7 +7,13 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: 
-    guid: 609362aaa453242d6b8e6e7c4c31d74f
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Alfie_Room.unity
+    guid: 3356eadd4e18b4b3eab2ad1a83afde05
+  - enabled: 1
+    path: Assets/Scenes/Inside_Houses.unity
+    guid: 5f82f65c9c04a4c629bcff49cb04b099
   - enabled: 1
     path: Assets/Scenes/Hometown.unity
     guid: 2cda990e2423bbf4892e6590ba056729
@@ -26,9 +32,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Forest_Pitfall_Scene.unity
     guid: ce21128b477ee1d4bada33d7f042aad1
-  - enabled: 1
-    path: Assets/Scenes/Inside_Houses.unity
-    guid: 5f82f65c9c04a4c629bcff49cb04b099
   - enabled: 1
     path: Assets/Scenes/Forest_Cabin.unity
     guid: 391f87399ad12004dbf1fc65e45d110f

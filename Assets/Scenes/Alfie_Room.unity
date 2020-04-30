@@ -346,6 +346,7 @@ GameObject:
   - component: {fileID: 891423509}
   - component: {fileID: 891423508}
   - component: {fileID: 891423507}
+  - component: {fileID: 891423510}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -418,6 +419,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &891423510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891423506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e37f876534419614ebad5bfc4e59d7e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 1685830850}
+  smoothing: 0.6
 --- !u!1001 &905909657
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -431,6 +446,11 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5056609329346532996, guid: dae91c7e0126501459b706818364d72d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7227451882243770328, guid: dae91c7e0126501459b706818364d72d,
         type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1434,10 +1454,16 @@ PrefabInstance:
     - target: {fileID: 6167315221104594990, guid: 22d648aac23e94940a6f94d946525261,
         type: 3}
       propertyPath: toScene
-      value: Hometown
+      value: Inside_Houses
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22d648aac23e94940a6f94d946525261, type: 3}
+--- !u!4 &1685830850 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4311224770286069310, guid: df4e832fdf117b3489897f8c11b13026,
+    type: 3}
+  m_PrefabInstance: {fileID: 868390905}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1763232183
 GameObject:
   m_ObjectHideFlags: 0
