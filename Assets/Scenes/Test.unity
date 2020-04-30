@@ -163,7 +163,7 @@ Transform:
   m_Children:
   - {fileID: 1709984444}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1199525837
 GameObject:
@@ -2321,6 +2321,75 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4c277a8a56ea247e6a4e6e2cbae58743, type: 3}
+--- !u!1001 &2835737312203863921
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5787358739701726356, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_Name
+      value: Wolf Town Girl
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -24.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6655238927552304647, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5df0379347f7c455bb1f0dafc3d6373e, type: 3}
 --- !u!1001 &3884820256583215711
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2804,6 +2873,75 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c9e38fe315054a7e945de40a5d93ca3, type: 3}
+--- !u!1001 &6523997148168403156
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -27.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3022229812771470646, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_Name
+      value: Wolf Town Boy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2900addc9865648e3b52219d797fdd31, type: 3}
 --- !u!1001 &6921316710503046351
 PrefabInstance:
   m_ObjectHideFlags: 0
