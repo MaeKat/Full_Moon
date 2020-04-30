@@ -18,14 +18,18 @@ public class World : SceneController {
         }
 
 //Forest       
-        if (prevScene == "Forest" && currentScene == "Forest_Pitfall_Scene") {//up ladder from pit 2 to mt pass
+        if (prevScene == "Forest" && currentScene == "Forest_Pitfall_Scene") {
             player.position = new Vector2(4.19f, 3.16f);
             Camera.main.transform.position = new Vector3(-31.5f, -25.91f, -10f);
         }
-        if (prevScene == "Forest_Pitfall_Scene" && currentScene == "Forest") {//up ladder from pit 2 to mt pass
-            player.position = new Vector2(0f, 0f);
-            Camera.main.transform.position = new Vector3(-31.5f, -25.91f, -10f);
+        if (prevScene == "Forest_Pitfall_Scene" && currentScene == "Forest") {
+            player.position = new Vector2(-84.5f, 65.0f);
+            Camera.main.transform.position = new Vector3(-84.66f, 25.91f, -10f);
         }    
+         if (prevScene == "Forest_Cabin" && currentScene == "Forest_Pitfall_Scene") {
+            player.position = new Vector2(3.11f, 42.89f);
+            Camera.main.transform.position = new Vector3(-31.5f, 65.21f, -10f);
+        }       
 
 
 

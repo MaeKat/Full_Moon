@@ -193,6 +193,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
+  maxHealth: {fileID: 11400000, guid: 92a2bd14c0f52e74485555828f80e026, type: 2}
   health: 5
   enemyName: Slime
   baseAttack: 0.5
@@ -216,3 +217,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 4
   knockTime: 0.2
+  damage: 0
