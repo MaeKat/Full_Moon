@@ -2,9 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class MtnGate : MonoBehaviour
 {
 
+    //public LevelLoader sn;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
@@ -13,6 +26,8 @@ public class NewBehaviourScript : MonoBehaviour
             MtnKey.HasKey = 0;
             Debug.Log("doorhit");
             Destroy(gameObject);
+            
         }
     }
+
 }

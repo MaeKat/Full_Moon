@@ -30,6 +30,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Forest.unity
     guid: 8b822b53b455c1c46ae287007be4ee3c
   - enabled: 1
+    path: Assets/Scenes/Forest_Cabin.unity
+    guid: 391f87399ad12004dbf1fc65e45d110f
+  - enabled: 1
+    path: Assets/Scenes/Forest_Pitfall_Scene.unity
+    guid: ce21128b477ee1d4bada33d7f042aad1
+  - enabled: 1
     path: Assets/Scenes/Mountain_Pass.unity
     guid: 70b793a89b25c9e40b39d6a558c3f226
   - enabled: 1
@@ -38,10 +44,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mountain_Pass_Pitfall_2.unity
     guid: e505e82ac00e94249b2d859a0d0be81f
-  - enabled: 1
-    path: Assets/Scenes/Forest_Pitfall_Scene.unity
-    guid: ce21128b477ee1d4bada33d7f042aad1
-  - enabled: 1
-    path: Assets/Scenes/Forest_Cabin.unity
-    guid: 391f87399ad12004dbf1fc65e45d110f
   m_configObjects: {}
