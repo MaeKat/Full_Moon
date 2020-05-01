@@ -24,7 +24,7 @@ public class Forest_Cabin_Door : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         { 
             Debug.Log("doorhit");
-            sn.LoadPitfall(1);
+            sn.LoadPitfall(6);
         }
     }
 
