@@ -121,6 +121,39 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &129121030 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1826122515202941693, guid: 2410c745a3b60465b9b446b8b617946b,
+    type: 3}
+  m_PrefabInstance: {fileID: 497025064}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &129121031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 129121030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a29c98b2493d524aaffe1478a32ab80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theText: {fileID: 1560300007}
+  textfile: {fileID: 4900000, guid: 5592bc864404f844aa89e691910901ad, type: 3}
+  dialogue: []
+  currLine: 0
+  endAtLine: 0
+  player: {fileID: 1161010661}
+  speakerBox: {fileID: 129121032}
+  alfieBox: {fileID: 1161010659}
+  isTouching: 0
+--- !u!61 &129121032 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 7649998293151355920, guid: 2410c745a3b60465b9b446b8b617946b,
+    type: 3}
+  m_PrefabInstance: {fileID: 497025064}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &223380585
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -240,6 +273,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99fc0bb95e22e2f41b9c0a8a856b6bad, type: 3}
+--- !u!1 &326547568 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7234583368958284197, guid: e637d6a906f1b42d6856450dea22368e,
+    type: 3}
+  m_PrefabInstance: {fileID: 863330432}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &326547569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 326547568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a29c98b2493d524aaffe1478a32ab80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theText: {fileID: 1560300007}
+  textfile: {fileID: 4900000, guid: eda32b7a39c90874096af231e3b960a9, type: 3}
+  dialogue: []
+  currLine: 0
+  endAtLine: 0
+  player: {fileID: 1161010661}
+  speakerBox: {fileID: 326547570}
+  alfieBox: {fileID: 1161010659}
+  isTouching: 0
+--- !u!61 &326547570 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 4349539410132110191, guid: e637d6a906f1b42d6856450dea22368e,
+    type: 3}
+  m_PrefabInstance: {fileID: 863330432}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &342686662
 GameObject:
   m_ObjectHideFlags: 0
@@ -6016,6 +6082,39 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
+--- !u!1 &360337392 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5787358739701726356, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1975894180}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &360337393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 360337392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a29c98b2493d524aaffe1478a32ab80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theText: {fileID: 1560300007}
+  textfile: {fileID: 4900000, guid: 79d18ed373abadf48830698195d4eac2, type: 3}
+  dialogue: []
+  currLine: 0
+  endAtLine: 0
+  player: {fileID: 1161010661}
+  speakerBox: {fileID: 360337395}
+  alfieBox: {fileID: 1161010659}
+  isTouching: 0
+--- !u!61 &360337395 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 5717436374920312469, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1975894180}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &391977624
 GameObject:
   m_ObjectHideFlags: 0
@@ -77323,6 +77422,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wolf Village Elder
       objectReference: {fileID: 0}
+    - target: {fileID: 7290952874513866930, guid: 2410c745a3b60465b9b446b8b617946b,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8982948943647340741, guid: 2410c745a3b60465b9b446b8b617946b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -77361,7 +77465,7 @@ PrefabInstance:
     - target: {fileID: 8982948943647340741, guid: 2410c745a3b60465b9b446b8b617946b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 8982948943647340741, guid: 2410c745a3b60465b9b446b8b617946b,
         type: 3}
@@ -79785,6 +79889,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 758721273789099971, guid: 831957c47ddf243ff97727471afbc6d9,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6181463641150972651, guid: 831957c47ddf243ff97727471afbc6d9,
         type: 3}
       propertyPath: m_Name
@@ -80885,6 +80994,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3245177615039247398, guid: e637d6a906f1b42d6856450dea22368e,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7234583368958284197, guid: e637d6a906f1b42d6856450dea22368e,
         type: 3}
@@ -82185,6 +82299,12 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
+--- !u!224 &961506357 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 8775824724317772775, guid: dae91c7e0126501459b706818364d72d,
+    type: 3}
+  m_PrefabInstance: {fileID: 8775824724686642272}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1020277855
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -82357,7 +82477,7 @@ PrefabInstance:
     - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 806284808717799391, guid: 2900addc9865648e3b52219d797fdd31,
         type: 3}
@@ -82378,6 +82498,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wolf Town Boy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8400507401628968003, guid: 2900addc9865648e3b52219d797fdd31,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2900addc9865648e3b52219d797fdd31, type: 3}
@@ -82819,6 +82944,57 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1108727825 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6181463641150972651, guid: 831957c47ddf243ff97727471afbc6d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 838601903}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1108727826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1108727825}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a29c98b2493d524aaffe1478a32ab80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theText: {fileID: 1560300007}
+  textfile: {fileID: 4900000, guid: c17170a16784a234cb6952cb950c07bc, type: 3}
+  dialogue: []
+  currLine: 0
+  endAtLine: 0
+  player: {fileID: 1161010661}
+  speakerBox: {fileID: 1108727828}
+  alfieBox: {fileID: 1161010659}
+  isTouching: 0
+--- !u!61 &1108727828 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 6062243078053458347, guid: 831957c47ddf243ff97727471afbc6d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 838601903}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &1161010659 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: -5088125567783794115, guid: 41fa4b6c9abce6e47909ee4453b1f990,
+    type: 3}
+  m_PrefabInstance: {fileID: 1875491112}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1161010661 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2505778309311248013, guid: 41fa4b6c9abce6e47909ee4453b1f990,
+    type: 3}
+  m_PrefabInstance: {fileID: 1875491112}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0666c87bfb8f18343bbbf0db26133929, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1240743588
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -82826,6 +83002,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4147404009862956476, guid: 0247f62d322714c38b7805e37401128a,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4552702888221796409, guid: 0247f62d322714c38b7805e37401128a,
         type: 3}
       propertyPath: m_Name
@@ -90539,6 +90720,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4147404009862956476, guid: 0247f62d322714c38b7805e37401128a,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4552702888221796409, guid: 0247f62d322714c38b7805e37401128a,
         type: 3}
       propertyPath: m_Name
@@ -90619,6 +90805,111 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12240e184ef13864c871d77d1c9f3fb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1396629480 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4552702888221796409, guid: 0247f62d322714c38b7805e37401128a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1362628964}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1396629481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396629480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a29c98b2493d524aaffe1478a32ab80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theText: {fileID: 0}
+  textfile: {fileID: 0}
+  dialogue: []
+  currLine: 0
+  endAtLine: 0
+  player: {fileID: 0}
+  speakerBox: {fileID: 0}
+  alfieBox: {fileID: 0}
+  isTouching: 0
+--- !u!1 &1560300005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1560300006}
+  - component: {fileID: 1560300008}
+  - component: {fileID: 1560300007}
+  m_Layer: 0
+  m_Name: TextHomeWolf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1560300006
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1560300005}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.70175445}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 961506357}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -140.5965}
+  m_SizeDelta: {x: 560, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1560300007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1560300005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: test
+--- !u!222 &1560300008
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1560300005}
+  m_CullTransparentMesh: 0
 --- !u!1 &1710561304
 GameObject:
   m_ObjectHideFlags: 0
@@ -102004,6 +102295,33 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
+--- !u!1 &1714569872 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4552702888221796409, guid: 0247f62d322714c38b7805e37401128a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1240743588}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1714569873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1714569872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a29c98b2493d524aaffe1478a32ab80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theText: {fileID: 0}
+  textfile: {fileID: 0}
+  dialogue: []
+  currLine: 0
+  endAtLine: 0
+  player: {fileID: 0}
+  speakerBox: {fileID: 0}
+  alfieBox: {fileID: 0}
+  isTouching: 0
 --- !u!1001 &1875491112
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -102097,6 +102415,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3428161730273959739, guid: 5df0379347f7c455bb1f0dafc3d6373e,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5787358739701726356, guid: 5df0379347f7c455bb1f0dafc3d6373e,
         type: 3}
       propertyPath: m_Name
@@ -102159,6 +102482,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5df0379347f7c455bb1f0dafc3d6373e, type: 3}
+--- !u!1 &2096386281 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3022229812771470646, guid: 2900addc9865648e3b52219d797fdd31,
+    type: 3}
+  m_PrefabInstance: {fileID: 1040091055}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2096386282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096386281}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a29c98b2493d524aaffe1478a32ab80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theText: {fileID: 1560300007}
+  textfile: {fileID: 4900000, guid: e7360a1a36010ea42bea3cef423bcd2b, type: 3}
+  dialogue: []
+  currLine: 0
+  endAtLine: 0
+  player: {fileID: 1161010661}
+  speakerBox: {fileID: 2096386283}
+  alfieBox: {fileID: 1161010659}
+  isTouching: 0
+--- !u!61 &2096386283 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 6167318382944165726, guid: 2900addc9865648e3b52219d797fdd31,
+    type: 3}
+  m_PrefabInstance: {fileID: 1040091055}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8775824724686642272
 PrefabInstance:
   m_ObjectHideFlags: 0
