@@ -20,10 +20,12 @@ public class PlayerMovement : MonoBehaviour
     Vector3 change;
     public FloatValue currentHealth;
     public Signals playerHealthSignal;
+    public AudioSource walkSound;
 
     void Start(){
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        walkSound = GetComponent<AudioSource>();
 
     }
 
@@ -59,6 +61,7 @@ public class PlayerMovement : MonoBehaviour
     void UpdateAnimationAndMove(){
          if(change != Vector3.zero){
             MoveCharacter();
+            PlayWalkSound();
             animator.SetFloat("Horizontal", change.x);
             animator.SetFloat("Vertical", change.y);
             animator.SetBool("moving", true);
@@ -73,6 +76,12 @@ public class PlayerMovement : MonoBehaviour
 
         rb.MovePosition(transform.position + change * moveSpeed * Time.fixedDeltaTime);
         
+    }
+
+    void PlayWalkSound()
+    {
+        if (!walkSound.isPlaying)
+            walkSound.Play();        
     }
 
     public void Knock(float knockTime, float damage)

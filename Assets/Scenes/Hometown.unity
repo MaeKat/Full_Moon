@@ -77882,6 +77882,8 @@ MonoBehaviour:
   currLine: 0
   endAtLine: 3
   player: {fileID: 1665262078}
+  onlySpeakOnce: 1
+  saidOnce: 0
 --- !u!4 &789714606
 Transform:
   m_ObjectHideFlags: 0
