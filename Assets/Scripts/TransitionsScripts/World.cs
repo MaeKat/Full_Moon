@@ -50,6 +50,17 @@ public class World : SceneController {
                  player.position = new Vector2(-52.37f, -15.2f);
             Camera.main.transform.position = new Vector3(-31.5f, -25.91f, -10f);
         }
+//Internal Mountain
+          if (prevScene == "Internal_Mountain_1" && currentScene == "Mountain_Pass") {//leave the inside of the mtn
+           player.position = new Vector2(4.72f, 58.12f);
+            Camera.main.transform.position = new Vector3(-31.5f, -25.91f, -10f);
+        }       
+          if (prevScene == "Internal_Mountain_3" && currentScene == "Internal_Mountain_2") {//down ladder from internal 3 to internal 2
+                 player.position = new Vector2(26.82f, 56.16f);
+            Camera.main.transform.position = new Vector3(-31.5f, -25.91f, -10f);
+        }       
+
+
 
     }
      

@@ -44,4 +44,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mountain_Pass_Pitfall_2.unity
     guid: e505e82ac00e94249b2d859a0d0be81f
+  - enabled: 1
+    path: Assets/Scenes/Internal_Mountain_1.unity
+    guid: 1d28e0b85a1ea5a45bc8d29a427ef6c9
+  - enabled: 1
+    path: Assets/Scenes/Internal_Mountain_2.unity
+    guid: 10864ca9b92300c45bd2f881be37dba3
+  - enabled: 1
+    path: Assets/Scenes/Internal_Mountain_3.unity
+    guid: 93fbfcf4a9e1b634d90916140cba72ef
   m_configObjects: {}
