@@ -207,6 +207,8 @@ MonoBehaviour:
   currLine: 0
   endAtLine: 0
   player: {fileID: 0}
+  onlySpeakOnce: 0
+  saidOnce: 0
 --- !u!4 &113561899
 Transform:
   m_ObjectHideFlags: 0
@@ -454,7 +456,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -798,6 +799,7 @@ GameObject:
   - component: {fileID: 1256064092}
   - component: {fileID: 1256064094}
   - component: {fileID: 1256064093}
+  - component: {fileID: 1256064095}
   m_Layer: 0
   m_Name: objects
   m_TagString: Untagged
@@ -1618,6 +1620,22 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!19719996 &1256064095
+TilemapCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1256064091}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_MaximumTileChangeCount: 1000
+  m_ExtrusionFactor: 0.00001
 --- !u!1001 &1564635555
 PrefabInstance:
   m_ObjectHideFlags: 0
