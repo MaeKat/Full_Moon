@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class cutscene1end : MonoBehaviour
+public class cut : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -12,8 +12,8 @@ public class cutscene1end : MonoBehaviour
     }
 
     IEnumerator JumpToScene() {
-        yield return new WaitForSeconds(15.0f);
-        SceneManager.LoadScene("Alfie_Room_wolf");
+        yield return new WaitForSeconds(20.0f);
+        SceneManager.LoadScene("Main_Menu");
     }
 
     // Update is called once per frame
