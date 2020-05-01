@@ -22,7 +22,7 @@ public class Internal_Mtn_3_to_2 : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         { //Add Door collision here!
             Debug.Log("pitfall hit");
-            sn.LoadPitfall(13);
+            sn.LoadPitfall(14);
            
         }
     }

@@ -22,7 +22,7 @@ public class Mtn_Pass_P1_Scene_Trans : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         { //Add Door collision here!
             Debug.Log("pitfall hit");
-            sn.LoadPitfall(10);
+            sn.LoadPitfall(11);
            
         }
     }
