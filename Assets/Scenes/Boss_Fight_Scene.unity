@@ -2991,6 +2991,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Health
       objectReference: {fileID: 0}
+    - target: {fileID: 1553377608640657156, guid: 99fc0bb95e22e2f41b9c0a8a856b6bad,
+        type: 3}
+      propertyPath: hearts.Array.size
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99fc0bb95e22e2f41b9c0a8a856b6bad, type: 3}
 --- !u!1 &1400389717
