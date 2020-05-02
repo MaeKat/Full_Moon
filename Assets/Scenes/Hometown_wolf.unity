@@ -82422,6 +82422,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -83144,6 +83145,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -83254,6 +83256,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -91253,14 +91256,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 953657996}
-  textfile: {fileID: 0}
+  textfile: {fileID: 4900000, guid: 79d18ed373abadf48830698195d4eac2, type: 3}
   dialogue: []
   currLine: 0
   endAtLine: 0
   player: {fileID: 0}
-  speakerBox: {fileID: 0}
-  alfieBox: {fileID: 0}
+  speakerBox: {fileID: 1396629483}
+  alfieBox: {fileID: 1161010659}
   isTouching: 0
+--- !u!61 &1396629483 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 3083984013362108231, guid: 0247f62d322714c38b7805e37401128a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1362628964}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1485445208
 GameObject:
   m_ObjectHideFlags: 0
@@ -91313,6 +91322,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -91390,6 +91400,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -102921,14 +102932,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 1129488718}
-  textfile: {fileID: 0}
+  textfile: {fileID: 4900000, guid: 8d8525cebe6136842a1b542ff855a98e, type: 3}
   dialogue: []
   currLine: 0
   endAtLine: 0
   player: {fileID: 0}
-  speakerBox: {fileID: 0}
-  alfieBox: {fileID: 0}
+  speakerBox: {fileID: 1714569875}
+  alfieBox: {fileID: 1161010659}
   isTouching: 0
+--- !u!61 &1714569875 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 3083984013362108231, guid: 0247f62d322714c38b7805e37401128a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1240743588}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1875491112
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -103146,6 +103163,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -103223,6 +103241,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
