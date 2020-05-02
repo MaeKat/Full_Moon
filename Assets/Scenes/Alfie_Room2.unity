@@ -2771,6 +2771,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alfie_Stage1_0
       objectReference: {fileID: 0}
+    - target: {fileID: 2505778309311248001, guid: 41fa4b6c9abce6e47909ee4453b1f990,
+        type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2505778309311248001, guid: 41fa4b6c9abce6e47909ee4453b1f990,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 2505778309311248012, guid: 41fa4b6c9abce6e47909ee4453b1f990,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2825,6 +2835,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2505778309311248015, guid: 41fa4b6c9abce6e47909ee4453b1f990,
+        type: 3}
+      propertyPath: m_SortingLayerID
+      value: 197359069
+      objectReference: {fileID: 0}
+    - target: {fileID: 2505778309311248015, guid: 41fa4b6c9abce6e47909ee4453b1f990,
+        type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41fa4b6c9abce6e47909ee4453b1f990, type: 3}
