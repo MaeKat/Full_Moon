@@ -25,7 +25,7 @@ public class ForestGate : MonoBehaviour
         { //Add Door collision here!
             ForestKey.HasKey = 0;
             Debug.Log("doorhit");
-            sn.LoadPitfall(12);
+            sn.LoadPitfall(11);
         }
     }
 
