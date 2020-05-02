@@ -35,20 +35,20 @@ public class LevelLoader : MonoBehaviour
 
         SceneManager.LoadScene(levelIndex);
 
-        if (levelIndex == 11){//mtn pass 1 pitfall
+        if (levelIndex == 13){//mtn pass 1 pitfall
             player.position = new Vector2(0f, 0f);
             Camera.main.transform.position = new Vector3(0f, 0f, -10f); 
         }
-        if (levelIndex == 12){//mtn pass 2 pitfall
+        if (levelIndex == 14){//mtn pass 2 pitfall
             player.position = new Vector2(-31.37f, -48.16f);
             Camera.main.transform.position = new Vector3(0f, 0f, -10f); 
         }
-        if (levelIndex == 9)//forest pitfall
+        if (levelIndex == 10)//forest pitfall
         {
             player.position = new Vector2(0f, 0f);
             Camera.main.transform.position = new Vector3(0f, 0f, -10f);
         }
-        if (levelIndex == 14)//ice mtn lvl 3 to lvl 2 drop
+        if (levelIndex == 17)//ice mtn lvl 3 to lvl 2 drop
         {
             player.position = new Vector2(26.82f, 56.16f);
             Camera.main.transform.position = new Vector3(0f, 0f, -10f);
