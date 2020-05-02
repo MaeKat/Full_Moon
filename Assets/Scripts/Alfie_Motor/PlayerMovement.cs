@@ -21,12 +21,14 @@ public class PlayerMovement : MonoBehaviour
     public FloatValue currentHealth;
     public Signals playerHealthSignal;
     public AudioSource walkSound;
+    public GameObject restartButton, gameOverText;
 
     void Start(){
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         walkSound = GetComponent<AudioSource>();
-
+        restartButton.SetActive(false);
+        gameOverText.SetActive(false);
     }
 
     // Update is called once per frame
@@ -92,6 +94,8 @@ public class PlayerMovement : MonoBehaviour
 
           StartCoroutine(KnockCo(knockTime));
         }else{
+            gameOverText.SetActive(true);
+            restartButton.SetActive(true);
             this.gameObject.SetActive(false);
         }
 	}
